@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **App Development**
 
-- ⚡ Fun fact **Life is Unpredictable...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
