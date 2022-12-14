@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShobhitSoni123](https://github.com/ShobhitSoni123)
+- 👨‍💻 All of my projects are available at [https://github.com/truesoni](https://github.com/truesoni)
 
 - 💬 Ask me about **App Development**
 
