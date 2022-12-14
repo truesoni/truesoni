@@ -42,7 +42,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/> </a>
-
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 
