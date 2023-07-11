@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shobhit-soni/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="shobhit soni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shobhitsoni2001" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="shobhitsoni2001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shobhit_ind" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="shobhit_ind" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shobhit_ind" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="shobhit_ind" height="30" width="40" /></a>
 <a href="https://twitter.com/theshobhit2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="theshobhit2001" height="30" width="40" /></a>
 
