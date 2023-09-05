@@ -7,7 +7,7 @@
 ### **My Portfolio**:
 
 <a href="https://truesoni.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/truesoni?style=social)](https://peerlist.io/truesoni)
 
 <p align="left"> <a href="https://twitter.com/theshobhit2001" target="blank"><img src="https://img.shields.io/twitter/follow/theshobhit2001?logo=twitter&style=for-the-badge" alt="theshobhit2001" /></a> </p>
 
