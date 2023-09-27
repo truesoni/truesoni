@@ -5,7 +5,7 @@
 <br>
 
 ### **My Portfolio**:
-<a href="https://truesoni.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
+<a href="https://truesoni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
 [![Peerlist](https://github-readme-badge.peerlist.io/api/truesoni?style=social)](https://peerlist.io/truesoni)
 ![](https://komarev.com/ghpvc/?username=truesoni&color=brightgreen)
 
