@@ -13,7 +13,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/truesoni](https://github.com/truesoni)
 
