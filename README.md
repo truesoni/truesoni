@@ -13,11 +13,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Software Development** & Contributing to **Open Source Community**
 
 - 👨‍💻 All of my projects are available at [https://github.com/truesoni](https://github.com/truesoni)
 
-- 💬 Ask me about **App Development**
+- 💬 Ask me about **Web Development & App Development**
 
 
 <h3 align="left">Connect with me:</h3>
