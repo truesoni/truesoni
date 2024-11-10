@@ -1,19 +1,18 @@
 <h1 align="center">Hi Everyone👋, I'm Shobhit Soni</h1>
 <h3 align="center">A passionate learner, and an enthusiast developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
 ### **My Portfolio**:
 <a href="https://truesoni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/truesoni?style=social)](https://peerlist.io/truesoni)
 ![](https://komarev.com/ghpvc/?username=truesoni&color=brightgreen)
 
 <p align="left"> <a href="https://twitter.com/theshobhit2001" target="blank"><img src="https://img.shields.io/twitter/follow/theshobhit2001?logo=twitter&style=for-the-badge" alt="theshobhit2001" /></a>
 </p>
 
 
-- 🌱 I’m currently learning **Software Development** & Contributing to **Open Source Community**
+- 🌱 I’m currently working as an **Apprentice Trainee Analyst @eClerx** & I have a keen interest in **Software Development Engineering** & Contributing to the **Open Source Software (OSS)** community for fun.
 
 - 👨‍💻 All of my projects are available at [https://github.com/truesoni](https://github.com/truesoni)
 
@@ -22,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shobhit-soni/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="shobhit soni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shobhit-soni/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shobhit soni" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/shobhit_ind" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/hackerrank/images/7f113bba-8436-47a5-9982-af0bc4c02a8e.svg" alt="shobhit_ind" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shobhit_ind" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="shobhit_ind" height="30" width="40" /></a>
 <a href="https://twitter.com/theshobhit2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="theshobhit2001" height="30" width="40" /></a>
